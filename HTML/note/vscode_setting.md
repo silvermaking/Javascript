@@ -19,7 +19,8 @@
   - 태그를 자동으로 닫아줌
 - Auto rename tag
   - HTML 태그를 수정할 때 자동으로 변경
-- Bracket Pair Colorizer
+- ~~Bracket Pair Colorizer~~(Deprecated)
+- Rainbow Brackets
   - 짝이 되는 괄호끼리 색을 칠해줌
 
 
