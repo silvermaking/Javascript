@@ -20,6 +20,8 @@
 - Auto rename tag
   - HTML 태그를 수정할 때 자동으로 변경
 - ~~Bracket Pair Colorizer~~(Deprecated)
+  - vscode default setting([link](https://violetboralee.medium.com/vscode%EC%97%90%EC%84%9C-bracket-pair-colorizer-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EB%82%B4%EC%9E%A5-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e75558a87990))
+
 - Rainbow Brackets
   - 짝이 되는 괄호끼리 색을 칠해줌
 
