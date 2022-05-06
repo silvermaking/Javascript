@@ -1,3 +1,13 @@
+# Reference
+
+## 브라우저 참고 자료
+
+- [브라우저 동작원리](https://d2.naver.com/helloworld/59361)
+
+
+
+
+
 # 0. EMMIT 요소들
 
 ```HTML
